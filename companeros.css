@@ -104,3 +104,21 @@ header{
 .box h3 {
     font-family: 'Anton', sans-serif;
 }
+ section .box:hover{
+    background: blue;
+ }
+
+
+
+.icons {
+    text-decoration: none;
+    background: #444f4c ;
+    font-size: 15px;
+    display: block;
+    padding: 10px;
+
+}
+
+.icons:hover{
+    background: rgb(123, 123, 123);
+}
