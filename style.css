@@ -105,11 +105,24 @@ table{
 
 td{
     background-color: cornsilk;
+
     
 }
 
+td:hover{
+    background: royalblue;
+    color: #c00000;
+}
 
-a{
+
+td a {
+    text-decoration: none;
+    background: #048a6b ;
+    font-size: 15px;
+    display: block;
+    text-decoration-style: none;
+    padding: 10px;
+    
     
 }
 
