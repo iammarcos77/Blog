@@ -91,7 +91,14 @@ img {
 }
 
 
-.colum img {
+.column img {
     margin-top: 5px;
+
 }
+
+.column:hover {
+    background: black;
+}
+
+
 
